@@ -22,7 +22,7 @@
 
 <style>
 #home{
-  background: url('../../src/assets/pizza.jpg');
+  background: url('http://liangyeni.com/wp-content/uploads/2020/04/pizza.jpg');
   height: 84vh;
   padding:10%;
 }
