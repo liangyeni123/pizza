@@ -80,3 +80,5 @@ if (process.env.NODE_ENV === 'production') {
     })
   ])
 }
+
+const HtmlWebpackPlugin = require('html-webpack-plugin')
